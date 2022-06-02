@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/adebimpecole/faq-accordion-card.git)
 - Live Site URL: [Live site URL](https://shiny-arithmetic-8ad2bf.netlify.app/)
 
 ## My process
